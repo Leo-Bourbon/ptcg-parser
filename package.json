@@ -2,6 +2,7 @@
   "name": "ptcg-parser",
   "version": "0.1.0",
   "description": "Lightweight parser of Pokemon TCG decklists.",
+  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
