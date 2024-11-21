@@ -15,7 +15,7 @@
     "rootDirs": ["src", "tests"],
     "baseUrl": ".",
     "paths": {
-      "src/*": ["src/*"]
+      "@src/*": ["src/*"]
     }
   }
 }
